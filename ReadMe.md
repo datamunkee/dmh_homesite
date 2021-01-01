@@ -7,6 +7,10 @@ This is a minimal tutorial to get started.
 
 View the thing [here](https://kbroman.org/simple_site).
 
+
+This specific site is a copy of kbroman's site.
+This is at github.com/datamunkee/dmh_homesite
+
 ---
 
 To the extent possible under law,
