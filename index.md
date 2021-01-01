@@ -21,6 +21,7 @@ Pain of using GitHub:
 - using PAT on the commandline
 - using ssh on the commandline
 - having multiple gh accounts on same machine
+- useHttpPath or Not
 
 ---
 
