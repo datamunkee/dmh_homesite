@@ -23,6 +23,7 @@ Pain of using GitHub:
 - having multiple gh accounts on same machine
 - remove useHttpPath from config
 - use https in config
+- manage ssh 
 
 ---
 
